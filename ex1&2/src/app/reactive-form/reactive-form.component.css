@@ -1,0 +1,24 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+label {
+    flex-basis: 10%;
+}
+
+.L2 {
+    flex-basis: 20%;
+}
+
+.item {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+
+}
+.btn {
+    margin-top: 4px;
+}
